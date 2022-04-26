@@ -1,0 +1,72 @@
+body {
+  padding-left: 5rem;
+  padding-right: 5rem;
+  background-color: #00008b;
+}
+.whitecard {
+  background-color: white;
+  padding: 1rem;
+}
+
+.reviews {
+  margin-top: 1rem;
+}
+
+.rname {
+  font-style: italic;
+  color: rgb(111, 111, 134);
+}
+
+h3 {
+  font-size: large;
+}
+
+footer,
+header {
+  margin-top: 1rem;
+  background-color: lightblue;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+hr {
+  margin-top: 0;
+  padding: 0;
+}
+
+.sharebuttons {
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  background-image: linear-gradient(rgb(201, 198, 198), rgb(75, 75, 75));
+  border: 0.1rem solid rgb(255, 254, 254);
+  border-radius: 0.2rem;
+}
+
+/* figure {
+  padding: 0.1rem;
+} */
+
+.mainimg {
+  padding: 0.1rem;
+  border: 0.1rem solid grey;
+  margin-top: 0.1rem;
+}
+
+.coloredlink {
+  color: purple;
+}
+
+li {
+  display: inline;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+ul {
+  background-color: grey;
+  font-size: larger;
+}
+
+figcaption {
+  margin-left: 0.1rem;
+}
